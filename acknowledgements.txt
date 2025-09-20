@@ -1,0 +1,3 @@
+I used the source: https://pandas.pydata.org/docs/user_guide/reshaping.html to implement a pivot table based on the recipe tags.
+
+I also used the source: https://pandas.pydata.org/docs/user_guide/merging.html to implement the merge method.
